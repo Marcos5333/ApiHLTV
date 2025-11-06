@@ -118,6 +118,11 @@ Ela demonstra o uso avançado de Node.js, Express e automação com Puppeteer, a
 
 O projeto pode ser facilmente adaptado para outras fontes de dados e é ideal como base para sistemas de eSports, painéis de resultados e bots de acompanhamento em tempo real.
 
+Instalar dependencias na pasta ! Vou deixar print da estrutura de pastas
+
+npm install express axios cors dotenv puppeteer helmet express-rate-limit
+
+
 👨‍💻 Autor
 
 Desenvolvido por Marcos Souza
